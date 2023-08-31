@@ -1,6 +1,7 @@
 body {
     width: 500px;
     background-color: rgb(248, 130, 199);
+    
 }
 
 h1 {
@@ -12,4 +13,8 @@ div {
     width: 120px;
     border: 5px solid rgb(231, 218, 218);
 
+}
+
+p {
+    color: honeydew;
 }
